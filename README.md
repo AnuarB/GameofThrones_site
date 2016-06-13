@@ -1,4 +1,4 @@
-# stagesite-v0.0.1
+# GameofThrones-v0.0.1
 GoT_Fansite gemaakt door Anuar om een stukje front-end code te hebben wat toevoeging is voor mijn cv. De bedoeling is naarmate
 ik nieuwe dingen leer deze te verwerken in de site, momenteel is er alleen 1 pagina.
 
